@@ -1,16 +1,40 @@
-# Airline Safety
+✈️ Airlines Power BI Dashboard
 
-This folder contains the data behind the story [Should Travelers Avoid Flying Airlines That Have Had Crashes in the Past?](http://fivethirtyeight.com/features/should-travelers-avoid-flying-airlines-that-have-had-crashes-in-the-past/)
+📌 Project Overview
 
-Header | Definition
----|---------
-`airline` | Airline (asterisk indicates that regional subsidiaries are included)
-`avail_seat_km_per_week` | Available seat kilometers flown every week
-`incidents_85_99` | Total number of incidents, 1985–1999
-`fatal_accidents_85_99` | Total number of fatal accidents, 1985–1999
-`fatalities_85_99` | Total number of fatalities, 1985–1999
-`incidents_00_14` | Total number of incidents, 2000–2014
-`fatal_accidents_00_14` | Total number of fatal accidents, 2000–2014
-`fatalities_00_14` | Total number of fatalities, 2000–2014
+This repository contains an interactive Power BI dashboard built to analyze airline data.
+The dashboard provides insights into airline performance, passenger trends, and operational statistics to support data-driven decision-making.
 
-Source: [Aviation Safety Network](http://aviation-safety.net)
+📊 Dashboard Highlights
+
+Passenger traffic trends over time
+
+Airline performance comparison
+
+Flight delays and cancellations analysis
+
+Revenue and occupancy metrics
+
+Regional distribution of flights
+
+🛠 Tools & Technologies
+
+Power BI – Data visualization & dashboarding
+
+Data Cleaning & Transformation – Power Query
+
+DAX – For calculated measures & KPIs
+
+🎯 Key Learnings
+
+Hands-on experience with data modeling and relationships
+
+Creating KPIs and measures using DAX
+
+Designing interactive and user-friendly dashboards
+
+📢 Author
+
+Created by [JuherKhan] – feel free to connect on LinkedIn www.linkedin.com/in/juher-khan-127490338 or reach out for collaboration.
+
+<img width="1315" height="738" alt="Screenshot 2025-08-18 150159" src="https://github.com/user-attachments/assets/9138223e-ba56-410e-8f29-e4f5e1700833" />

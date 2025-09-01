@@ -2,7 +2,7 @@
 
 📌 Project Overview
 
-This repository contains an interactive Power BI dashboard built to analyze airline data.
+This project is an interactive dashboard analyzing Power BI dashboard built to analyze airline data.
 The dashboard provides insights into airline performance, passenger trends, and operational statistics to support data-driven decision-making.
 
 📊 Dashboard Highlights
